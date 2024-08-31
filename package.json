@@ -1,0 +1,37 @@
+{
+  "name": "tws",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikapopoi/tws.git"
+  },
+  "keywords": [
+    "[\"chat\"",
+    "\"real-time\"",
+    "\"socket.io\"",
+    "\"websocket\"",
+    "\"nodejs\"",
+    "\"express\"",
+    "\"chat-room\"",
+    "\"messaging\"",
+    "\"communication\"",
+    "\"group-chat\"",
+    "\"live-chat\"]"
+  ],
+  "author": "harsh rathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pikapopoi/tws/issues"
+  },
+  "homepage": "https://github.com/pikapopoi/tws#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
